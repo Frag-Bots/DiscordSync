@@ -1,0 +1,3 @@
+name: "DiscordSync"
+main: "com.prince.discordsync.DiscordSync"
+version: 1.0.0
